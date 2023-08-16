@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-export const Index = (): JSX.Element => {
+export const Main = (): JSX.Element => {
   return (
     <div className="index">
       <div className="frame-59">
@@ -25,7 +25,7 @@ export const Index = (): JSX.Element => {
                     3분만에 좋은 커리어를 쌓는 방법에 대해 배우고, <br />
                     당신만의{" "}
                   </span>
-                  <span className="text-wrapper-17">퍼스널 브랜딩된 노션 페이지</span>
+                  <span className="text-wrapper-17"><span className="underline">퍼스널 브랜딩된 노션 페이지</span></span>
                   <span className="text-wrapper-16">까지 받을 수 있어요!&nbsp;&nbsp;</span>
                 </p>
               </div>

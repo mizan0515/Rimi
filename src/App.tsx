@@ -9,12 +9,12 @@ import { Loading } from "./screens/Loading";
 import { Wearedeveloping } from "./screens/Wearedeveloping";
 import { Choice } from "./screens/Choice";
 import { Choosedesign } from "./screens/Choosedesign";
-import { Index } from "./screens/Index";
+import { Main } from "./screens/Main/Main";
 
 const router = createBrowserRouter([
   {
     path: "/*",
-    element: <ExperiencedA />,
+    element: <Main />,
   },
   {
     path: "/experiencedu95a",
@@ -54,7 +54,7 @@ const router = createBrowserRouter([
   },
   {
     path: "/index",
-    element: <Index />,
+    element: <Main />,
   },
 ]);
 

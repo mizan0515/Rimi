@@ -124,6 +124,11 @@
   position: relative;
 }
 
+.text-wrapper-17 .underline {
+  color: var(--colorsfff);
+  text-decoration: underline;
+}
+
 .index .element-23 {
   color: var(--colorsgray);
   flex: 1;
@@ -148,7 +153,7 @@
 }
 
 .index .text-wrapper-17 {
-  font-family: var(--default-font-family);
+  font-family: var(--title-font-family);
   font-size: var(--default-font-size);
   font-style: var(--default-font-style);
   font-weight: var(--default-font-weight);

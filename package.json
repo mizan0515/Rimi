@@ -1,5 +1,5 @@
 {
-  "name": "Rimi",
+  "name": "rimi",
   "version": "0.1.0",
   "description": "Project Rimi",
   "source": "./index.html",
@@ -31,5 +31,16 @@
     "parcel-reporter-static-files-copy": "^1.5.0",
     "process": "^0.11.10",
     "storybook": "7.0.3"
-  }
+  },
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mizan0515/Rimi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mizan0515/Rimi/issues"
+  },
+  "homepage": "https://github.com/mizan0515/Rimi#readme"
 }
