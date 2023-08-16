@@ -1,0 +1,110 @@
+.loading {
+  align-items: center;
+  background-color: var(--colorsblack);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  max-width: 400px;
+  min-height: 640px;
+  min-width: 300px;
+  padding: 0px 30px;
+  position: relative;
+}
+
+.loading .frame-38 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--colorsblack);
+  display: flex;
+  flex-direction: column;
+  gap: 98px;
+  height: 940px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.loading .frame-39 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 36px;
+  justify-content: center;
+  padding: 250px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.loading .overlap-group-wrapper {
+  height: 147px;
+  position: relative;
+  width: 147px;
+}
+
+.loading .overlap-group {
+  border-radius: 73.5px;
+  height: 147px;
+  position: relative;
+}
+
+.loading .ellipse {
+  background-color: #007bff;
+  border-radius: 51px;
+  height: 102px;
+  left: 22px;
+  position: absolute;
+  top: 23px;
+  width: 102px;
+}
+
+.loading .ellipse-2 {
+  background-color: #007bff78;
+  border-radius: 73.5px;
+  height: 147px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 147px;
+}
+
+.loading .frame-40 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 44px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.loading .text-18 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.loading .rimi-7 {
+  color: var(--colorswhite);
+  flex: 1;
+  font-family: var(--title-font-family);
+  font-size: var(--title-font-size);
+  font-style: var(--title-font-style);
+  font-weight: var(--title-font-weight);
+  letter-spacing: var(--title-letter-spacing);
+  line-height: var(--title-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}

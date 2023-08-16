@@ -1,0 +1,289 @@
+.choosedesign {
+  align-items: center;
+  background-color: var(--colorsblack);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 400px;
+  min-height: 100vh;
+  min-width: 300px;
+  padding: 0px 30px;
+  position: relative;
+}
+
+.choosedesign .frame-52 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--colorsblack);
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 44px;
+  padding: 20px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.choosedesign .frame-53 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.choosedesign .icons-3 {
+  height: 33.12px;
+  position: relative;
+  width: 34.72px;
+}
+
+.choosedesign .frame-54 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 100%;
+}
+
+.choosedesign .bot-box-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 27px;
+  max-width: 340px;
+  position: relative;
+  width: 100%;
+}
+
+.choosedesign .bot-box-5 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 30px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 13px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.choosedesign .frame-55 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--colorsdarkblue-1);
+  border: 4px solid;
+  border-color: var(--colorsmain-blue);
+  border-radius: 30px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 30px 5px 20px;
+  position: relative;
+  width: 100%;
+}
+
+.choosedesign .logo-7 {
+  height: 52px;
+  left: 151px;
+  position: absolute;
+  top: -26px;
+  width: 38px;
+}
+
+.choosedesign .text-23 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 15px;
+  position: relative;
+  width: 100%;
+}
+
+.choosedesign .element-21 {
+  color: var(--colorsfff);
+  flex: 1;
+  font-family: var(--bot-font-family);
+  font-size: var(--bot-font-size);
+  font-style: var(--bot-font-style);
+  font-weight: var(--bot-font-weight);
+  letter-spacing: var(--bot-letter-spacing);
+  line-height: var(--bot-line-height);
+  margin-top: -1px;
+  position: relative;
+}
+
+.choosedesign .frame-56 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.choosedesign .paint-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 63px 63px;
+  height: 244px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.choosedesign .paint {
+  height: 244px;
+  object-fit: cover;
+  position: relative;
+  width: 231px;
+}
+
+.choosedesign .frame-57 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 18px;
+  position: relative;
+  width: 100%;
+}
+
+.choosedesign .text-24 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.choosedesign .rimi-10 {
+  color: var(--colorswhite);
+  flex: 1;
+  font-family: var(--title-font-family);
+  font-size: var(--title-font-size);
+  font-style: var(--title-font-style);
+  font-weight: var(--title-font-weight);
+  letter-spacing: var(--title-letter-spacing);
+  line-height: var(--title-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.choosedesign .element-22 {
+  color: var(--colorsgray);
+  flex: 1;
+  font-family: var(--default-font-family);
+  font-size: var(--default-font-size);
+  font-style: var(--default-font-style);
+  font-weight: var(--default-font-weight);
+  letter-spacing: var(--default-letter-spacing);
+  line-height: var(--default-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.choosedesign .frame-58 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 340px;
+  position: relative;
+  width: 100%;
+}
+
+.choosedesign .button-9 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--colorsgreen-1);
+  border: 1px solid;
+  border-color: var(--colorsskyblue-1);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: 58px;
+  justify-content: center;
+  max-width: 320px;
+  padding: 0px 24px;
+  position: relative;
+  width: 100%;
+}
+
+.choosedesign .text-25 {
+  color: var(--colorswhite);
+  font-family: var(--text-xl-font-semibold-font-family);
+  font-size: var(--text-xl-font-semibold-font-size);
+  font-style: var(--text-xl-font-semibold-font-style);
+  font-weight: var(--text-xl-font-semibold-font-weight);
+  letter-spacing: var(--text-xl-font-semibold-letter-spacing);
+  line-height: var(--text-xl-font-semibold-line-height);
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.choosedesign .button-10 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--colorsmain-blue);
+  border: 1px solid;
+  border-color: var(--colorsskyblue-1);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: 58px;
+  justify-content: center;
+  max-width: 320px;
+  padding: 0px 24px;
+  position: relative;
+  width: 100%;
+}
+
+.choosedesign .button-11 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--colorsdarkblue-2);
+  border: 1px solid;
+  border-color: var(--colorsskyblue-1);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: 58px;
+  justify-content: center;
+  max-width: 320px;
+  padding: 0px 24px;
+  position: relative;
+  width: 100%;
+}
