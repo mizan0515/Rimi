@@ -411,7 +411,7 @@
 
 .experienced-a .button {
   align-items: center;
-  align-self: stretch;
+  align-self: center;
   background-color: var(--colorsmain-blue);
   border: 1px solid;
   border-color: var(--colorsskyblue-1);

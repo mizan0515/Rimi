@@ -6,7 +6,7 @@
   flex-direction: column;
   gap: 10px;
   max-width: 400px;
-  min-height: 1236px;
+  min-height: 100vh;
   min-width: 300px;
   padding: 0px 30px;
   position: relative;
@@ -407,7 +407,7 @@
 
 .experienced-c .button-5 {
   align-items: center;
-  align-self: stretch;
+  align-self: center;
   background-color: var(--colorsmain-blue);
   border: 1px solid;
   border-color: var(--colorsskyblue-1);

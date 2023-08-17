@@ -6,7 +6,7 @@
   flex-direction: column;
   gap: 10px;
   max-width: 400px;
-  min-height: 777px;
+  min-height: 100vh;
   min-width: 300px;
   padding: 0px 30px;
   position: relative;

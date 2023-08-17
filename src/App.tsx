@@ -9,19 +9,19 @@ import { Loading } from "./screens/Loading";
 import { Wearedeveloping } from "./screens/Wearedeveloping";
 import { Choice } from "./screens/Choice";
 import { Choosedesign } from "./screens/Choosedesign";
-import { Main } from "./screens/Main/Main";
+import { Index } from "./screens/Index";
 
 const router = createBrowserRouter([
   {
     path: "/*",
-    element: <Main />,
+    element: <Index />,
   },
   {
-    path: "/experiencedu95a",
+    path: "/experienceda",
     element: <ExperiencedA />,
   },
   {
-    path: "/experiencedu95i",
+    path: "/experiencedi",
     element: <ExperiencedI />,
   },
   {
@@ -29,11 +29,11 @@ const router = createBrowserRouter([
     element: <Ending />,
   },
   {
-    path: "/experiencedu95c",
+    path: "/experiencedc",
     element: <ExperiencedC />,
   },
   {
-    path: "/experiencedu95b",
+    path: "/experiencedb",
     element: <ExperiencedB />,
   },
   {
@@ -53,8 +53,8 @@ const router = createBrowserRouter([
     element: <Choosedesign />,
   },
   {
-    path: "/index",
-    element: <Main />,
+    path: "/main",
+    element: <Index />,
   },
 ]);
 

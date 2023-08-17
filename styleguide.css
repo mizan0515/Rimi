@@ -2,7 +2,7 @@
   --bot-font-family:  'Noto Sans KR', sans-serif;
   --bot-font-size: 16px;
   --bot-font-style: normal;
-  --bot-font-weight: 500;
+  --bot-font-weight: 300;
   --bot-letter-spacing: 0px;
   --bot-line-height: 24px;
   --collection-1-skyblue: rgba(80, 161, 255, 1);
@@ -23,7 +23,7 @@
   --default-font-family: "Noto Sans KR", sans-serif;
   --default-font-size: 12px;
   --default-font-style: normal;
-  --default-font-weight: 400;
+  --default-font-weight: 300;
   --default-letter-spacing: 0px;
   --default-line-height: 20px;
   --imoji-font-family:  'Noto Sans KR', sans-serif;

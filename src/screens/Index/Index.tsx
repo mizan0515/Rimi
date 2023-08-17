@@ -1,9 +1,9 @@
 import React from "react";
 import "./style.css";
 
-export const Main = (): JSX.Element => {
+export const Index = (): JSX.Element => {
   return (
-    <div className="index">
+    <div className="main">
       <div className="frame-59">
         <div className="frame-60">
           <img className="logo-8" alt="Logo" src="/img/logo-3.svg" />

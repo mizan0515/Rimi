@@ -97,10 +97,11 @@
 
 .choosedesign .logo-7 {
   height: 52px;
-  left: 151px;
   position: absolute;
   top: -26px;
   width: 38px;
+  left: 50%; /* 가로 중앙에 위치 */
+  transform: translateX(-50%); /* 중앙 조정 */
 }
 
 .choosedesign .text-23 {
@@ -222,7 +223,7 @@
 
 .choosedesign .button-9 {
   align-items: center;
-  align-self: stretch;
+  align-self: center;
   background-color: var(--colorsgreen-1);
   border: 1px solid;
   border-color: var(--colorsskyblue-1);
@@ -230,10 +231,10 @@
   display: flex;
   flex-direction: column;
   gap: 12px;
+  padding: 0px 24px;
   height: 58px;
   justify-content: center;
   max-width: 320px;
-  padding: 0px 24px;
   position: relative;
   width: 100%;
 }
@@ -254,7 +255,7 @@
 
 .choosedesign .button-10 {
   align-items: center;
-  align-self: stretch;
+  align-self: center;
   background-color: var(--colorsmain-blue);
   border: 1px solid;
   border-color: var(--colorsskyblue-1);
@@ -272,7 +273,7 @@
 
 .choosedesign .button-11 {
   align-items: center;
-  align-self: stretch;
+  align-self: center;
   background-color: var(--colorsdarkblue-2);
   border: 1px solid;
   border-color: var(--colorsskyblue-1);
